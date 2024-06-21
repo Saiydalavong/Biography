@@ -1,4 +1,5 @@
 **#Biography**
+The biography is a detailed record from the past up to the present.
 
 **Education**
 
