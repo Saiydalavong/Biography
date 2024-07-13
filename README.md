@@ -2,7 +2,7 @@
 
 The biography is a detailed record from the past up to the present.
 
-NANE: PHENFSY
+NANE: PHENGSY
 
 SURNAME: DALAVONG
 
