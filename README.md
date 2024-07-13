@@ -28,7 +28,7 @@ Dalavong, Phengsy, Ha Na Im, and Chang Gyu Choi. “In What Ways Does Placeness 
 
 **2024** 
 
-Rethinking The Location Of New Towns From A Commuting Perspective: A Case Study From Korea, AESOP CONGRESS PARIS 2024, TRACK 14: POLICY MOBILITY. 09 July, 2024. Paris, France
+Rethinking The Location of New Towns From A Commuting Perspective: A Case Study From Korea, AESOP CONGRESS PARIS 2024, TRACK 14: POLICY MOBILITY. 09 July, 2024. Paris, France
 
 
 
