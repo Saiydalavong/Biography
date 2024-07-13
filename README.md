@@ -1,7 +1,7 @@
 **#Biography**
 The biography is a detailed record from the past up to the present.
 
-**Education**
+**Education Background**
 
 2021 - Present: Graduate School of Urban Studies, Hanyang University, S. Korea
 
@@ -15,6 +15,33 @@ The biography is a detailed record from the past up to the present.
 
 2001 - 2009: Primary-Secondary P1-P5 and M1-M3, Sibounhuang School, Laos
 
+
+**Publications**
+
+**2024** 
+
+Dalavong, Phengsy, and Chang Gyu Choi. “Commuting Paradox of the Technopole Newtown: A Case Study in the Seoul Metropolitan Area.” Edited by Walid Al-Shaar. PLOS ONE 19, no. 7 (July 5, 2024): e0306304. https://doi.org/10.1371/journal.pone.0306304.
+
+Dalavong, Phengsy, Ha Na Im, and Chang Gyu Choi. “In What Ways Does Placeness Affect People’s Behavior? Focusing on Personal Place Attachment and Public Place Image as Connecting Parameter.” Frontiers in Psychology 15 (June 18, 2024): 1394930. https://doi.org/10.3389/fpsyg.2024.1394930.
+
+**Conferences**
+
+**2024** 
+
+Rethinking The Location Of New Towns From A Commuting Perspective: A Case Study From Korea, AESOP CONGRESS PARIS 2024, TRACK 14: POLICY MOBILITY. 09 July, 2024. Paris, France
+
+
+
+**2023** 
+
+Commuting of Technopole Newtown: A case study of the Seoul Metropolitan Area. Joint Confernce of Korea Planning Association and Korea Society of Transportation. 12 October, 2023. Busan, South Korea.
+
+New Town Ages and Commute Characteristics: A Case Study in Seoul Metropolitan Area. South Korea, International Confernces of Asia Pacific Planning Society (ICAPPS). 22 August, 2023. Danang, Vietnam.
+
+Navigating the Commuting in Korea's Techno Newtown: What the Data Tells Us. Spring Confernces of Korea Planning Association. 27 April, 2023. Seoul, South Korea
+
+
+**2024** 
 
 **Working Experience**
 
@@ -36,7 +63,7 @@ The biography is a detailed record from the past up to the present.
 
 2018: Assistant in workshop "Cross-Cultural Workshop 2018" between Faculty of Architecture, NUoL and Faculty of Architecture, Chulalongkorn University, 21-27 Jan 2018, Vientiane, Laos
 
-**Implemented Projects**
+**Projects**
 
 2019 - 2020: Co-builder construction work of a one-story resident housing, Vientiane, Laos
 
