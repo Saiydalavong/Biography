@@ -41,7 +41,6 @@ New Town Ages and Commute Characteristics: A Case Study in Seoul Metropolitan Ar
 Navigating the Commuting in Korea's Techno Newtown: What the Data Tells Us. Spring Confernces of Korea Planning Association. 27 April, 2023. Seoul, South Korea
 
 
-**2024** 
 
 **Working Experience**
 
