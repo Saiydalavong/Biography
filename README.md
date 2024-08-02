@@ -81,7 +81,7 @@ Navigating the Commuting in Korea's Techno Newtown: What the Data Tells Us. Spri
 
 2018 - 2020: Assistant survey and conceptual planning of Botanic Garden, Vientiane, Laos
 
-2018 - 2019: Co-design Architect works of "Learning Center Building" at Faculty of Architecture, National University of Laos, Laos
+2018 - 2019: Assistant on design Architect works and constrction work of "Learning Center Building" at Faculty of Architecture, National University of Laos, Vientiane, Laos
 
 2018 - 2018: Assistant survey Lao-Thai railways from Thanalange to Khamsavath, Vientiane, Laos
 
