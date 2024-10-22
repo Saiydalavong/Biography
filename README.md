@@ -1,3 +1,8 @@
+**Personal Statement**
+Architecture and urban development are deeply intertwined, both playing a vital role in shaping how people live, interact, and experience their surroundings. The built environment has a profound impact on human behavior, from the way we move through spaces to how we connect with our communities. Understanding these dynamics, and designing with them in mind, is crucial—whether it’s at the scale of a single building or an entire city.
+
+People's behaviors and needs vary greatly from one region to another, and this makes thoughtful, research-driven design essential. It’s not just about creating structures; it's about crafting environments that reflect and respond to the unique cultural, social, and behavioral patterns of each place. By taking into account the distinct characteristics of each area, we can design spaces that truly enhance the quality of life for those who inhabit them
+
 **#Biography**
 
 The biography is a detailed record from the past up to the present.
