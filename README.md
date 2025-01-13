@@ -14,7 +14,7 @@ SURNAME: DALAVONG
 
 **Education Background**
 
-2021 - Present: Graduate School of Urban Studies, Hanyang University, S. Korea
+2021 - Present: Ph.D candidate at Graduate School of Urban Studies, Hanyang University, S. Korea
 
 2020 - 2021: Korean Language, Busan University of Foreign Studies, S. Korea
 
